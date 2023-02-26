@@ -8,14 +8,17 @@ Grundregler för säkra lösenord:
 * Längd är viktigare än komplexitet
 * Välj lösenord som är enkla att komma ihåg men svåra att gissa
 ### Lösenordshanterare
-En lösenordhanterare hjälper dig att ha unika, långa och komplexa lösenord till alla dina inloggningar. För att skydda de lösenord 
+En lösenordhanterare hjälper dig att ha unika, långa och komplexa lösenord till alla dina inloggningar. För att skydda de lösenord
 ### Multifaktorautentisering
 
 ### Länkar
-[Bruce Schneier om välja säkra lösenord](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html)
-[Bitwarden](https://bitwarden.com/)
-[1password](https://1password.com/)
+* [Bruce Schneier om välja säkra lösenord](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html)
+* [Bitwarden](https://bitwarden.com/)
+* [1password](https://1password.com/)
+* [NSA Cybersecurity Advisories](https://www.nsa.gov/Press-Room/Cybersecurity-Advisories-Guidance/)
+* [CSI: Best Practices for Securing Your Home Network](https://media.defense.gov/2023/Feb/22/2003165170/-1/-1/0/CSI_BEST_PRACTICES_FOR_SECURING_YOUR_HOME_NETWORK.PDF)
 ## Epost
+## Uppdateringar
 ## Sociala medier
 ## Meddelandeappar
 ## Webläsare
